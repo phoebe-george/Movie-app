@@ -34,7 +34,7 @@ Ensure MySQL is running and the schema is created before starting the applicatio
 
 ## ⚙️ Tech Stack
 
-- Java 17+
+- Java 8+
 - Spring Boot
 - Spring Security (JWT Auth)
 - Spring Data JPA
